@@ -1,2 +1,3 @@
 # spider
-This is my spider responsitory welcome start
+## 1 猫眼字体反爬
+通过字体绘画至图片 通过图像识别进行获取字体的对应关系
